@@ -1,0 +1,29 @@
+body {
+  color: rgb(255, 255, 255);
+  font-size: 2rem;
+}
+.container {
+      align-items: center;
+      background-color: rgb(0, 0, 0);
+      display: flex;
+      justify-content: center;
+      justify-content: space-between;
+  }
+  .container2 {
+    align-items: center;
+    background-color: rgb(0, 0, 0);
+    display: flex;
+    justify-content: left;
+}
+ .div {
+  flex: flex;
+}
+.column {
+  padding-right: 2em;
+  padding-left: 2em;
+  font-size: 18px;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
